@@ -1,6 +1,6 @@
 {
-  "build": 16,
+  "build": 17,
   "date": "2026-11-02",
   "apk": "https://github.com/andresliechti/pour-over-mentor-app/raw/main/pour-over-mentor.apk",
-  "notes": "Sync mit GitHub, neue Bohnen von Claude, Bohnen-Text über Teilen an die App."
+  "notes": "Updates werden direkt in der App geladen und installiert."
 }
