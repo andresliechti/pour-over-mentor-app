@@ -1,6 +1,6 @@
 {
-  "build": 19,
-  "date": "2026-11-02",
-  "apk": "https://github.com/andresliechti/pour-over-mentor-app/raw/main/pour-over-mentor.apk",
-  "notes": "Phase 3a: Ausrüstungs-Vorlagen, Wasser mit GH/KH, Mühlen-Umrechnung, Brühgerät im Faktenblatt, Einstellungsseite."
+ "build": 20,
+ "date": "2026-11-02",
+ "apk": "https://github.com/andresliechti/pour-over-mentor-app/raw/main/pour-over-mentor.apk",
+ "notes": "Practice mode (nothing is saved), Iced V60, Cold brew with reminder when ready"
 }
