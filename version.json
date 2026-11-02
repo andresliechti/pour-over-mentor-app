@@ -1,6 +1,6 @@
 {
-  "build": 14,
+  "build": 15,
   "date": "2026-11-02",
   "apk": "https://github.com/andresliechti/pour-over-mentor-app/raw/main/pour-over-mentor.apk",
-  "notes": "Erste Android-Version: Acaia und Bookoo, eingebaute Stimme, Bildschirm bleibt an, Brew-Erkennung nur in der Brühansicht, Update-Hinweis."
+  "notes": "Statusleiste und Kamera überdecken nichts mehr, Bildschirm bleibt in der App immer an, Brew abbrechen mit Bestätigung."
 }
