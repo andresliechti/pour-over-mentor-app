@@ -1,6 +1,6 @@
 {
- "build": 21,
- "date": "2026-11-02",
+ "build": 22,
+ "date": "2026-11-03",
  "apk": "https://github.com/andresliechti/pour-over-mentor-app/raw/main/pour-over-mentor.apk",
- "notes": "Cold brew monitor, iced switch, papers fit the brewer, better bloom, tidier settings and equipment, spoken summary, use a recipe again"
+ "notes": "Alarm vibration + test, reuse keeps pours and temperature, method switches, equipment info and tidy delete, large fonts fit"
 }
