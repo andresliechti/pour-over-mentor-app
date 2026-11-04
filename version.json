@@ -1,6 +1,6 @@
 {
- "build": 25,
+ "build": 26,
  "date": "2026-11-04",
  "apk": "https://github.com/andresliechti/pour-over-mentor-app/raw/main/pour-over-mentor.apk",
- "notes": "Bag and price per bean, stock warning, statistics, compare two brews"
+ "notes": "Bean cards: Select/Archive/Void on top, details folded. Brew file: compare and reuse at the end. Settings > Methods: test the cold brew reminder in 2 minutes."
 }
