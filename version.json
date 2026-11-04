@@ -1,6 +1,6 @@
 {
- "build": 24,
+ "build": 25,
  "date": "2026-11-04",
  "apk": "https://github.com/andresliechti/pour-over-mentor-app/raw/main/pour-over-mentor.apk",
- "notes": "Voice: tempo hints when on time, catch up or pause when off time; pour score with time, grams and calm"
+ "notes": "Bag and price per bean, stock warning, statistics, compare two brews"
 }
