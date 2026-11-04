@@ -1,6 +1,6 @@
 {
- "build": 26,
+ "build": 27,
  "date": "2026-11-04",
  "apk": "https://github.com/andresliechti/pour-over-mentor-app/raw/main/pour-over-mentor.apk",
- "notes": "Bean cards: Select/Archive/Void on top, details folded. Brew file: compare and reuse at the end. Settings > Methods: test the cold brew reminder in 2 minutes."
+ "notes": "Pour score for older brews (calculated afterwards from the scale curve, not used for learning). Reminder test removed."
 }
