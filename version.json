@@ -1,6 +1,6 @@
 {
- "build": 22,
- "date": "2026-11-03",
+ "build": 23,
+ "date": "2026-11-04",
  "apk": "https://github.com/andresliechti/pour-over-mentor-app/raw/main/pour-over-mentor.apk",
- "notes": "Alarm vibration + test, reuse keeps pours and temperature, method switches, equipment info and tidy delete, large fonts fit"
+ "notes": "Coaching follows the plan in time, pour score, learning per water and paper, grind confidence, TDS in % or ppm with extraction chart"
 }
