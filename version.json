@@ -1,6 +1,6 @@
 {
- "build": 27,
+ "build": 28,
  "date": "2026-11-04",
  "apk": "https://github.com/andresliechti/pour-over-mentor-app/raw/main/pour-over-mentor.apk",
- "notes": "Pour score for older brews (calculated afterwards from the scale curve, not used for learning). Reminder test removed."
+ "notes": "Bean cards: tidier layout with sections. New statistics: paper & water within each bean, grind sweet spot, roast age, taste direction, learning curve, 9/10 and up, cost per cup and month."
 }
