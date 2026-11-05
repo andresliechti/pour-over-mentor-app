@@ -1,6 +1,6 @@
 {
- "build": 28,
- "date": "2026-11-04",
+ "build": 29,
+ "date": "2026-11-05",
  "apk": "https://github.com/andresliechti/pour-over-mentor-app/raw/main/pour-over-mentor.apk",
- "notes": "Bean cards: tidier layout with sections. New statistics: paper & water within each bean, grind sweet spot, roast age, taste direction, learning curve, 9/10 and up, cost per cup and month."
+ "notes": "Pour score: stricter, shown big with emojis and sayings, announced at the end. Ranks from Apprentice to Champion (last 20 brews). Settings: Pour score."
 }
