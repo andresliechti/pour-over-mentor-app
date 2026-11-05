@@ -1,6 +1,6 @@
 {
- "build": 30,
+ "build": 31,
  "date": "2026-11-05",
  "apk": "https://github.com/andresliechti/pour-over-mentor-app/raw/main/pour-over-mentor.apk",
- "notes": "Settings: profiles Simple/Standard/Nerd and many personal options (short assessment, reminder, theme, units, hints, statistics parts). Mentor mode for Champions."
+ "notes": "TDS: the scale weighs the empty server first and the coffee after you lift the brewer. Archived beans: no corrections shown."
 }
