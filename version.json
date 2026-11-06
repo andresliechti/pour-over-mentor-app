@@ -1,6 +1,6 @@
 {
- "build": 34,
+ "build": 35,
  "date": "2026-11-06",
  "apk": "https://github.com/andresliechti/pour-over-mentor-app/raw/main/pour-over-mentor.apk",
- "notes": "Roast date protected against stray taps. New beans start from your saved grind of the most similar bean."
+ "notes": "Decaf: bloom over the whole bed, then small circles in the centre (screen, text and voice)."
 }
