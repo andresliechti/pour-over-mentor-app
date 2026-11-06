@@ -1,6 +1,6 @@
 {
- "build": 33,
+ "build": 34,
  "date": "2026-11-06",
  "apk": "https://github.com/andresliechti/pour-over-mentor-app/raw/main/pour-over-mentor.apk",
- "notes": "Your own notes in the assessment, shown in the brew file."
+ "notes": "Roast date protected against stray taps. New beans start from your saved grind of the most similar bean."
 }
