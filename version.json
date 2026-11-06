@@ -1,6 +1,6 @@
 {
- "build": 32,
+ "build": 33,
  "date": "2026-11-06",
  "apk": "https://github.com/andresliechti/pour-over-mentor-app/raw/main/pour-over-mentor.apk",
- "notes": "Corrections now count from what you really brewed (temperature, ratio edited in the brew file)."
+ "notes": "Your own notes in the assessment, shown in the brew file."
 }
