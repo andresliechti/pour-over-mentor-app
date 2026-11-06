@@ -1,6 +1,6 @@
 {
- "build": 31,
- "date": "2026-11-05",
+ "build": 32,
+ "date": "2026-11-06",
  "apk": "https://github.com/andresliechti/pour-over-mentor-app/raw/main/pour-over-mentor.apk",
- "notes": "TDS: the scale weighs the empty server first and the coffee after you lift the brewer. Archived beans: no corrections shown."
+ "notes": "Corrections now count from what you really brewed (temperature, ratio edited in the brew file)."
 }
