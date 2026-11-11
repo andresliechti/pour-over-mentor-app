@@ -1,6 +1,6 @@
 {
- "build": 35,
- "date": "2026-11-06",
+ "build": 36,
+ "date": "2026-11-11",
  "apk": "https://github.com/andresliechti/pour-over-mentor-app/raw/main/pour-over-mentor.apk",
- "notes": "Decaf: bloom over the whole bed, then small circles in the centre (screen, text and voice)."
+ "notes": "Wilton taps again («pour more gently» works the right way round), no corrections that change nothing, no reminder for voided brews, bloom up to 5× through corrections, tidier settings, diagnostics log."
 }
