@@ -1,6 +1,6 @@
 {
- "build": 37,
+ "build": 38,
  "date": "2026-11-13",
  "apk": "https://github.com/andresliechti/pour-over-mentor-app/raw/main/pour-over-mentor.apk",
- "notes": "AeroPress (Hoffmann, Nemo Pop, Stanica, Kasuya) with its own brew screen and grind memory; warning when the scale battery runs low; new look: label and tiles, bean cards, stamps, brew display, printout, rank pins, weekly review, milestones, aroma wheel, time-of-day light."
+ "notes": "No more dropdowns (buttons and lists instead), clearer light theme with cards that stand out, easier-to-read bean label and printout, round app icon for every launcher shape."
 }
