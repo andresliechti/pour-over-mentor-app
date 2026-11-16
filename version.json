@@ -1,6 +1,6 @@
 {
- "build": 38,
- "date": "2026-11-13",
+ "build": 39,
+ "date": "2026-11-16",
  "apk": "https://github.com/andresliechti/pour-over-mentor-app/raw/main/pour-over-mentor.apk",
- "notes": "No more dropdowns (buttons and lists instead), clearer light theme with cards that stand out, easier-to-read bean label and printout, round app icon for every launcher shape."
+ "notes": "Tidy round: settings on one page, equipment and bean files as tidy rows, each bean gets its own taste profile and «buy again», tap the weight to tare, sharper brew display with a drawdown ring, shorter brew file, Records as tiles, a Manual behind the «?», and calmer text sizes."
 }
