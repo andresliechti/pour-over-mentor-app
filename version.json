@@ -1,6 +1,6 @@
 {
- "build": 40,
+ "build": 41,
  "date": "2026-11-18",
  "apk": "https://github.com/andresliechti/pour-over-mentor-app/raw/main/pour-over-mentor.apk",
- "notes": "Clearer contrast in light and dark: buttons and fields stand out from the background, one bright orange for all highlights, record pages as cards. The numbers no longer flicker while the app loads."
+ "notes": "New beans without Claude: take a photo of the bag and check what the phone read, or enter it step by step. The start recipe comes from country, altitude, variety, roast level and process, plus what you learned on similar beans."
 }
