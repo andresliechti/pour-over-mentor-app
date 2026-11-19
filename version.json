@@ -1,6 +1,6 @@
 {
- "build": 41,
- "date": "2026-11-18",
+ "build": 42,
+ "date": "2026-11-19",
  "apk": "https://github.com/andresliechti/pour-over-mentor-app/raw/main/pour-over-mentor.apk",
- "notes": "New beans without Claude: take a photo of the bag and check what the phone read, or enter it step by step. The start recipe comes from country, altitude, variety, roast level and process, plus what you learned on similar beans."
+ "notes": "Rest before brewing per bean: when the roaster gives a rest time, the roast clock turns green from that day and the label says «Resting» until then. You can change it in the bean file under Roasted."
 }
