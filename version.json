@@ -1,6 +1,6 @@
 {
- "build": 42,
- "date": "2026-11-19",
+ "build": 43,
+ "date": "2026-11-20",
  "apk": "https://github.com/andresliechti/pour-over-mentor-app/raw/main/pour-over-mentor.apk",
- "notes": "Rest before brewing per bean: when the roaster gives a rest time, the roast clock turns green from that day and the label says «Resting» until then. You can change it in the bean file under Roasted."
+ "notes": "Grinder presets checked against the makers' data: ZP6 Special, K-Ultra, J-Ultra, Fellow Ode Gen 2, Wilfa, Niche and DF64 corrected. The scale chip says «Scale» until a scale is connected."
 }
