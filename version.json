@@ -1,6 +1,6 @@
 {
- "build": 43,
- "date": "2026-11-20",
+ "build": 44,
+ "date": "2026-11-21",
  "apk": "https://github.com/andresliechti/pour-over-mentor-app/raw/main/pour-over-mentor.apk",
- "notes": "Grinder presets checked against the makers' data: ZP6 Special, K-Ultra, J-Ultra, Fellow Ode Gen 2, Wilfa, Niche and DF64 corrected. The scale chip says «Scale» until a scale is connected."
+ "notes": "Brews older than your newest 200 are no longer lost: they are kept short in an archive (values and rating) and still count for statistics, records and bean files. Beans are never forgotten, and new or returning beans start from what was learned on them."
 }
