@@ -1,6 +1,6 @@
 {
- "build": 45,
- "date": "2026-11-22",
+ "build": 46,
+ "date": "2026-11-24",
  "apk": "https://github.com/andresliechti/pour-over-mentor-app/raw/main/pour-over-mentor.apk",
- "notes": "Records: the open and void marks fit the list at large font sizes. The brew file no longer slides under the status bar. The Brew tab tiles no longer change right after start. Behind the scenes: the code is cleaned up (Android app only)."
+ "notes": "New bean by photo: fields printed on the bag (Region, Producer, Proceso, Variedad …) are read first, in several languages; «natural roast» or honey as a taste note no longer set the process; product name, producer, roaster from the company line or web address; rest time from the bag; tap a word to use it as process, altitude or producer; «Copy the read text». The brew file now starts at the top after rating, with a band over the clock. The Brew tab tiles no longer flash at start."
 }
