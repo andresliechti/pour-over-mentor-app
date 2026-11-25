@@ -1,6 +1,6 @@
 {
- "build": 49,
+ "build": 50,
  "date": "2026-11-25",
  "apk": "https://github.com/andresliechti/pour-over-mentor-app/raw/main/pour-over-mentor.apk",
- "notes": "Update band: shows the whole text and the download progress (% and MB); if a download fails it says why, with «Try again» and «Browser». Includes build 48 (Kasuya dilutes with 110 g)."
+ "notes": "AeroPress inverted (Kasuya, Stanica): no cup on the scale needed at the start, the press keeps its full time, and diluting works after taring the cup."
 }
