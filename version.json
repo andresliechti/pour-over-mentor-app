@@ -1,6 +1,6 @@
 {
- "build": 48,
+ "build": 49,
  "date": "2026-11-25",
  "apk": "https://github.com/andresliechti/pour-over-mentor-app/raw/main/pour-over-mentor.apk",
- "notes": "AeroPress Kasuya: dilute with 110 g as in Tetsu Kasuya's own recipe (to taste 100–150 g) instead of 60 g, which made it far too strong."
+ "notes": "Update band: shows the whole text and the download progress (% and MB); if a download fails it says why, with «Try again» and «Browser». Includes build 48 (Kasuya dilutes with 110 g)."
 }
