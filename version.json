@@ -1,6 +1,6 @@
 {
- "build": 47,
+ "build": 48,
  "date": "2026-11-25",
  "apk": "https://github.com/andresliechti/pour-over-mentor-app/raw/main/pour-over-mentor.apk",
- "notes": "Done: in the drawdown the big button is «Done ✓» and a tap on the ring works too; «Bed dry? Tap Done» when the window starts; 5 s to undo. AeroPress: taring with the scale's own key starts it too, lifting the brewer to swirl is no longer taken as the press, the press counts down; decaf 2 °C cooler (not Kasuya). Bean profile: tap an axis for what it means; manual chapter «Tasting words». A new install starts without beans."
+ "notes": "AeroPress Kasuya: dilute with 110 g as in Tetsu Kasuya's own recipe (to taste 100–150 g) instead of 60 g, which made it far too strong."
 }
