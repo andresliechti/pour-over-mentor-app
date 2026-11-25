@@ -1,6 +1,6 @@
 {
- "build": 46,
- "date": "2026-11-24",
+ "build": 47,
+ "date": "2026-11-25",
  "apk": "https://github.com/andresliechti/pour-over-mentor-app/raw/main/pour-over-mentor.apk",
- "notes": "New bean by photo: fields printed on the bag (Region, Producer, Proceso, Variedad …) are read first, in several languages; «natural roast» or honey as a taste note no longer set the process; product name, producer, roaster from the company line or web address; rest time from the bag; tap a word to use it as process, altitude or producer; «Copy the read text». The brew file now starts at the top after rating, with a band over the clock. The Brew tab tiles no longer flash at start."
+ "notes": "Done: in the drawdown the big button is «Done ✓» and a tap on the ring works too; «Bed dry? Tap Done» when the window starts; 5 s to undo. AeroPress: taring with the scale's own key starts it too, lifting the brewer to swirl is no longer taken as the press, the press counts down; decaf 2 °C cooler (not Kasuya). Bean profile: tap an axis for what it means; manual chapter «Tasting words». A new install starts without beans."
 }
