@@ -1,6 +1,6 @@
 {
- "build": 52,
+ "build": 53,
  "date": "2026-11-27",
  "apk": "https://github.com/andresliechti/pour-over-mentor-app/raw/main/pour-over-mentor.apk",
- "notes": "AeroPress: water after pressing is counted from the cup once it stands on the scale again. Brew file: a tip when the cup was slightly dry and you pressed into the hiss, and «What was missing?» for a so-so cup without a clear direction."
+ "notes": "Bean capture reads label tables better: «Country», «Farm», «Altitude» in normal letters, also when the text comes column by column. Notes are taken as printed («Grape Candy»), «1500 ma.s.l.» is read, and a coffee name like «UBA Berry» beats the farm name (producer and farm go into the info)."
 }
