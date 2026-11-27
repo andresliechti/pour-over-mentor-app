@@ -1,6 +1,6 @@
 {
- "build": 51,
- "date": "2026-11-26",
+ "build": 52,
+ "date": "2026-11-27",
  "apk": "https://github.com/andresliechti/pour-over-mentor-app/raw/main/pour-over-mentor.apk",
- "notes": "AeroPress on the Brew tab: the line under the grind comes from your AeroPress brews, and applied corrections show as «Amended» with Undo and Reset. Dates for «today» now follow your time zone."
+ "notes": "AeroPress: water after pressing is counted from the cup once it stands on the scale again. Brew file: a tip when the cup was slightly dry and you pressed into the hiss, and «What was missing?» for a so-so cup without a clear direction."
 }
