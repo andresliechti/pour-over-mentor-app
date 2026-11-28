@@ -1,6 +1,6 @@
 {
- "build": 53,
- "date": "2026-11-27",
+ "build": 54,
+ "date": "2026-11-28",
  "apk": "https://github.com/andresliechti/pour-over-mentor-app/raw/main/pour-over-mentor.apk",
- "notes": "Bean capture reads label tables better: «Country», «Farm», «Altitude» in normal letters, also when the text comes column by column. Notes are taken as printed («Grape Candy»), «1500 ma.s.l.» is read, and a coffee name like «UBA Berry» beats the farm name (producer and farm go into the info)."
+ "notes": "Bean scan: after the photo you go straight to the check page (no word step any more), everything can still be changed there. Tested on bags from 64 specialty roasters worldwide: names, notes, varieties, processes and altitude are found much more reliably, notes in Swedish, Danish, Dutch, French, Italian and Spanish are understood, and many new notes, varieties and processes are sorted into the right groups."
 }
